@@ -1,5 +1,8 @@
-package test;
-
+package Solutions;
+/*
+ * Author - Alexander Kohler
+ * 
+ */
 public class Problem014 
 {
 /*The following iterative sequence is defined for the set of positive integers:
