@@ -18,7 +18,7 @@ public class Problem013 {
 	
 	static String readAndSum() throws IOException
 	{
-		BufferedReader br = new BufferedReader(new FileReader("/home/alex/workspace/ProjectEuler/src/Resources/Problem013Resource.txt"));
+		BufferedReader br = new BufferedReader(new FileReader("src/Resources/Problem013Resource.txt"));
 		String line;
 		BigInteger currentSum = new BigInteger("0");
 		while ((line = br.readLine()) != null) 
