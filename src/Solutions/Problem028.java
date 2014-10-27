@@ -22,7 +22,7 @@ public class Problem028 {
 	{
 		int middle = ((x - 1) / 2);
 		int endNum = x * x;
-		System.out.println(middle);
+		//System.out.println(middle);
 		int[][] grid = new int[x][x];
 		
 		int iter = 1;
